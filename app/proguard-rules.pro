@@ -1,0 +1,3 @@
+-keep class com.google.protobuf.** { *; }
+-keep class pairing.** { *; }
+-keep class remote.** { *; }

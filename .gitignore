@@ -1,0 +1,36 @@
+# Android Studio and Gradle
+*.iml
+.gradle/
+.idea/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build artifacts
+*.apk
+*.aab
+
+# Signing keys and local secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.key
+*.env
+*.env.*
+!.env.example
+
+# Logs and generated test evidence
+*.log
+/test-artifacts/
+/ui-*.png
+/ui-*.xml
+/ui-qa-report.json
+
+# Internal QA material and unreviewed workflows
+/scripts/
+/docs/privacy-policy.md
+/docs/real-device-testing.md
+/.github/workflows/
