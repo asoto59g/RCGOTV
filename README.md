@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="Icono RCGO TV_ Control y Streaming" src="https://github.com/user-attachments/assets/4a99e3e9-e4b0-486f-8f22-ff0a4df71d1a" />
+
 # RCGOTV para Android
 
 Aplicación Android nativa en Kotlin para controlar televisores Google TV y Android TV compatibles con Android TV Remote v2 por la red local. Es una aplicación independiente; no ejecuta los scripts Python de Windows. El icono de la aplicación usa la imagen RCGOTV proporcionada.
