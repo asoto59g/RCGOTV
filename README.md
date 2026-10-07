@@ -1,4 +1,5 @@
-<img width="501" height="501" alt="Icono RCGO TV_ Control y Streaming" src="https://github.com/user-attachments/assets/854ac713-4f26-49b8-b455-5a3ec047c976" />
+
+<img width="300" height="300" alt="Icono RCGO TV_ Control y Streaming" src="https://github.com/user-attachments/assets/0e144883-8392-4a16-ba31-9708a6b3f6af" />
 
 
 # RCGOTV para Android
